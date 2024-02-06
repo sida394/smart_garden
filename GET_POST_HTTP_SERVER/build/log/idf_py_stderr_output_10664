@@ -1,0 +1,27 @@
+hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
+hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+CMake Warning at C:/Espressif/frameworks/esp-idf-v5.1.2/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule
+  components/bootloader/subproject/components/micro-ecc/micro-ecc is out of
+  date.  Run 'git submodule update --init --recursive' to fix.
+Call Stack (most recent call first):
+  C:/Espressif/frameworks/esp-idf-v5.1.2/tools/cmake/build.cmake:80 (git_submodule_check)
+  C:/Espressif/frameworks/esp-idf-v5.1.2/tools/cmake/build.cmake:240 (__build_get_idf_git_revision)
+  C:/Espressif/frameworks/esp-idf-v5.1.2/tools/cmake/idf.cmake:53 (__build_init)
+  C:/Espressif/frameworks/esp-idf-v5.1.2/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:9 (include)
+
+
+CMake Warning at C:/Espressif/frameworks/esp-idf-v5.1.2/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/bt/controller/lib_esp32 is out of date.  Run 'git
+  submodule update --init --recursive' to fix.
+Call Stack (most recent call first):
+  C:/Espressif/frameworks/esp-idf-v5.1.2/tools/cmake/build.cmake:80 (git_submodule_check)
+  C:/Espressif/frameworks/esp-idf-v5.1.2/tools/cmake/build.cmake:240 (__build_get_idf_git_revision)
+  C:/Espressif/frameworks/esp-idf-v5.1.2/tools/cmake/idf.cmake:53 (__build_init)
+  C:/Espressif/frameworks/esp-idf-v5.1.2/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:9 (include)
+
+
+Compiler supported targets: xtensa-esp32-elf
+
