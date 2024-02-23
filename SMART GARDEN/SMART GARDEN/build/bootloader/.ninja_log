@@ -1,0 +1,166 @@
+# ninja log v5
+2868	4429	7302681012303486	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/adc_periph.c.obj	7b2fc8c1b5b978ff
+94	1050	7302643959128953	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj	22c68572cc165e4c
+21546	23133	7302681198403518	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj	acd0a6f56110067a
+17474	20282	7302681170513497	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/flash_qio_mode.c.obj	4f52738c280bd58a
+73	1466	7302680981173478	esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj	b4c7eca0c5234694
+13888	17455	7302681140103493	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	bd84cbf292b991ed
+4431	5868	7302681022663474	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/timer_periph.c.obj	bc1bd4e53b01fa28
+82	1934	7302680985363517	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	58356909be1c227
+2881	4471	7302681012343512	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/dport_access.c.obj	9e415ed178d28053
+15	1495	7302643961118967	project_elf_src_esp32.c	c9630e04b9dba34a
+5832	7559	7302681041093509	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2c_periph.c.obj	f4847d9e4b5ce4c5
+19709	21961	7302681187863529	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_sha.c.obj	6675d8b056b60866
+35095	38105	7302644328978976	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	79fd73e297b8f566
+15	1495	7302643961118967	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/project_elf_src_esp32.c	c9630e04b9dba34a
+1469	2931	7302680992713491	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/interrupts.c.obj	8d420c7190b487f2
+64	2905	7302680989843506	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj	99e0563885174b21
+8093	10937	7302681076783466	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/efuse_hal.c.obj	61d8cc1a51cc74a5
+17432	21203	7302681179973495	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32.c.obj	135c1e007e254397
+23405	25973	7302681226983505	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj	5274cbab34bcb3a4
+2921	4483	7302681012163542	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/uart_periph.c.obj	5eb4175f6af406cd
+1496	2680	7302643975868940	CMakeFiles/bootloader.elf.dir/project_elf_src_esp32.c.obj	92a47800f931ad77
+91	2879	7302680986693512	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/gpio_periph.c.obj	2b2346e945503a
+7284	9015	7302681057263532	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/twai_periph.c.obj	f5a5d13236137aa3
+21732	26978	7302681231693480	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	4790e2889fdefd44
+2933	4306	7302681010603492	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/spi_periph.c.obj	45e4ef9a81e7768b
+21963	26092	7302681227903512	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_esp32.c.obj	f2a0619a15fd1567
+4419	5881	7302681024843498	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/ledc_periph.c.obj	fbc7dd1d08bdc421
+54	2892	7302680989973485	esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.obj	ed5ab8dd0a1ef801
+2895	4687	7302681013383512	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/pcnt_periph.c.obj	2f5faf6c34e29a1d
+13825	17429	7302681138003512	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	ad12d2a1996ed4ab
+25976	29147	7302681258803467	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	a1cea2190ca1743d
+4528	6012	7302681025063503	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2s_periph.c.obj	df90624b77b2a4ab
+4473	5844	7302681022043476	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/lcd_periph.c.obj	7f88205770330ef7
+2907	4525	7302681012163542	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/rmt_periph.c.obj	2d8c64d2ac1806aa
+7440	10421	7302681071353499	esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj	f62fa383693171d9
+13801	16914	7302681136213501	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	8d30d4a9db91ae91
+4689	5856	7302681022653477	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdm_periph.c.obj	1d04b32d31cc31e1
+5846	7282	7302681039923504	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdmmc_periph.c.obj	5b053cb4d3f27294
+5870	7438	7302681041083506	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/touch_sensor_periph.c.obj	598d72aad4d40f8
+26967	29779	7302681265003478	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_utility.c.obj	8b5b6e486ef3b1c5
+4485	5330	7302681021283498	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/mcpwm_periph.c.obj	3030e97e484bbecc
+5883	7867	7302681046333516	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/dac_periph.c.obj	5d58341a19763679
+6057	8091	7302681048283491	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/rtc_io_periph.c.obj	24bca38f50a2e4c4
+5858	7525	7302681041573565	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdio_slave_periph.c.obj	6f557ca3c64ef45d
+12109	17416	7302681136323516	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	87d29e96a272b008
+7869	10251	7302681068713479	esp-idf/hal/CMakeFiles/__idf_hal.dir/mpu_hal.c.obj	8c66aaf529e0ae78
+7527	9635	7302681062523510	esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj	3535ad4b50726c88
+17419	19706	7302681163643522	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj	786cd5978c50326a
+7561	9917	7302681065623491	esp-idf/hal/CMakeFiles/__idf_hal.dir/wdt_hal_iram.c.obj	adb4dbfd6c1fef71
+9017	10974	7302681076873502	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/cache_hal_esp32.c.obj	36c21a55847ce2e2
+17405	19429	7302681161173506	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	bd8edf2a38eb7376
+19475	23415	7302681197073495	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash.c.obj	6ac6e0001b312c4b
+32	2918	7302680990913515	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj	4ccb48e9bd40805c
+10976	13885	7302681105613508	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj	efa9dc0eca4f95e
+7013	13759	7302644087778997	esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj	82e8fae2282a6328
+29565	32167	7302681288663514	esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj	806dcd0570bcb0f7
+13023	17442	7302681136823468	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	848d236fa13b054e
+24167	26991	7302681234703502	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_fields.c.obj	caa3e53f99491265
+14181	17470	7302681140153493	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32.c.obj	2e43c82100b704ec
+17461	19745	7302681165013515	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	b322194b77ba30f2
+19748	21543	7302681183793519	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj	9d55876cb4ad77a7
+20285	23428	7302681198913503	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj	477b3628f7f7778c
+17444	21729	7302681184903514	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	939785ca29cf3c56
+21240	24164	7302681208563538	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj	9af4a3045a1ffa8e
+22479	23895	7302644188128978	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_soc.c.obj	aa7418d3e568cc8e
+26094	27489	7302681242703519	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_table.c.obj	34262f58dbc1f26a
+9919	12048	7302681085483500	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj	274b9c4d35115308
+26981	29562	7302681263033502	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/without_key_purposes/three_key_blocks/esp_efuse_api_key.c.obj	74705481960cf8ec
+23431	26502	7302681233303497	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	b81adf43b228fb2f
+26993	29369	7302681260403502	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	fcfd51e3b74b9e7
+27072	30095	7302681267603479	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj	31a7968c0d417a0f
+9637	14178	7302681107763477	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk.c.obj	cc9c2eea0335a669
+23418	27069	7302681237783498	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj	eeb768ca20464d67
+10253	13020	7302681097793492	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/cpu_region_protect.c.obj	d2b84f45a29ff145
+29	270	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+10423	13822	7302681105603498	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk_init.c.obj	43acb043de324ad6
+32462	34760	7302681315603503	esp-idf/log/CMakeFiles/__idf_log.dir/log_buffers.c.obj	e127fad1c712380e
+32170	34718	7302681313623490	esp-idf/log/CMakeFiles/__idf_log.dir/log.c.obj	cfd64fce12809428
+47341	52121	7302681488273476	esp-idf/efuse/libefuse.a	380d11d4280125a2
+27680	30107	7302681268403487	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/chip_info.c.obj	d59bf7b50f3a21
+32743	34893	7302681317053500	esp-idf/log/CMakeFiles/__idf_log.dir/log_noos.c.obj	5b673425fb6e8456
+29371	32586	7302681291073485	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_time.c.obj	95e2ff06085ec717
+29781	32460	7302681290763476	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_uart.c.obj	c0104078d76fd111
+10939	13505	7302681101813546	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_init.c.obj	6cc9381a3144233c
+29149	31998	7302681287383529	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_sleep.c.obj	c0f90f2ace61b87b
+30110	31404	7302681280573496	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	e513153d5eb77af
+32001	33638	7302681302753493	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	888c4731c195eabb
+31406	32753	7302681291943497	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj	d3c74381f522c713
+32755	34609	7302681313983473	esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj	6799aab5e85271dd
+30097	33912	7302681305173483	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj	ea9617a74f98a4fa
+34936	37979	7302681345773477	esp-idf/log/liblog.a	ca1da5b7182e8276
+38529	40862	7302681372533490	esp-idf/esp_rom/libesp_rom.a	ec49465248a6dec
+40863	43062	7302681396973501	esp-idf/esp_common/libesp_common.a	6b62a8e12330ea64
+43064	45148	7302681417243485	esp-idf/esp_hw_support/libesp_hw_support.a	21de47dbd3b0a9eb
+45149	47175	7302681437873476	esp-idf/esp_system/libesp_system.a	71af11871846b05c
+52123	54263	7302681507673485	esp-idf/bootloader_support/libbootloader_support.a	9468eda57939d878
+54265	56085	7302681528193488	esp-idf/esp_app_format/libesp_app_format.a	afb3fda583680b09
+56086	57393	7302681541173477	esp-idf/spi_flash/libspi_flash.a	682c00c998e76a1d
+57516	59359	7302681560113487	esp-idf/hal/libhal.a	e5d1b2470259466c
+62221	64117	7302644591078961	esp-idf/micro-ecc/libmicro-ecc.a	26079dcb17c1a72a
+59821	61832	7302681583923476	esp-idf/soc/libsoc.a	2cbb35f0c427e1cc
+61833	63872	7302681605843502	esp-idf/xtensa/libxtensa.a	b95fb26a367d5ee6
+63947	65502	7302681621893521	esp-idf/main/libmain.a	f5204849c0c27eb6
+65614	72919	7302681694143484	bootloader.elf	9fdf0b34e80d3ed7
+72920	77413	7302681739283482	.bin_timestamp	aa0300b0a3230602
+72920	77413	7302681739283482	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/.bin_timestamp	aa0300b0a3230602
+29	270	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+31	59156	7303266650406127	build.ninja	d66e610703e22222
+23	13343	7303266650406127	build.ninja	d66e610703e22222
+31	507	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+31	507	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+19	222	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+19	222	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+26	263	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+26	263	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+36	407	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+36	407	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+32	268	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+32	268	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+31	526	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+31	526	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+24	228	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+24	228	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+23	229	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+23	229	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+22	217	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+22	217	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+22	236	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+22	236	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+20	249	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+20	249	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+24	293	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+24	293	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+30	278	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+30	278	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+48	340	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+48	340	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+25	271	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+25	271	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+31	263	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+31	263	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+37	253	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+37	253	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+34	300	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+34	300	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+23	273	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+23	273	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+33	233	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+33	233	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+30	306	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+30	306	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+32	303	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+32	303	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+24	242	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+24	242	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+50	338	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+50	338	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+23	262	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+23	262	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+30	234	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+30	234	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+44	449	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+44	449	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+52	365	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
+52	365	0	C:/Users/Yassine/Desktop/SMART GARDEN/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e378209d26554dbd
